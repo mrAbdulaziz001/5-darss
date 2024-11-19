@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: blue;
+}
+.yellow{
+    width: 1200px;
+    height: 614px;
+    background-color: yellow;
+    margin: 0 auto;
+    border-radius: 50px;
+    margin-top: 205px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 81px;
+    justify-content: center;
+    align-items: center;
+}
+
+.niger{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.red{
+    width: 133px;
+    height: 78px;
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    align-content: center;
+}
